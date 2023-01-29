@@ -4,7 +4,7 @@ it is shell app that can ues to many
 it is ues to ecode text in kj text
 # decode
 it is ues kj to AK
-#iagme a 
+# iagme a 
 it is make imge to ASCII imge
 # iamge s
 it is make imge to sketch image
